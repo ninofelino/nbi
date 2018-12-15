@@ -1,0 +1,37 @@
+id,name,description,type,category_id,tidakimport,brand_id,class_id,group_id,jenis_id,product_variant_ids/default_code,product_variant_ids/attribute_value_ids/id
+1,ALIA M QUANDARY,ALIA M QUANDARY,product,BARANG JADI,PIECES,Zoya Fashion,WD,BERGO,BERGO,ZWD3.TC.HK26M0,size36
+,,,,,,,,,,,size37
+,,,,,,,,,,,
+2,INNER INES,INNER INES,product,BARANG JADI,PIECES,Zoya Fashion,TT,PLKP BUSANA WANITA,INNER,ZTT3.B8.1015X0,"sizeS,color0"
+,,,,,,,,,,ZTT3.B8.1015S0,"sizeS,color0"
+,,,,,,,,,,ZTT3.B8.1015M0,"sizeM,color0"
+,,,,,,,,,,ZTT3.B8.1015L0,"sizeL,color0"
+,,,,,,,,,,ZTT3.B8.1015D0,"sizeD,color0"
+,,,,,,,,,,,
+,,,,,,,,,,,
+3,INNER AURA,INNER AURA,product,BARANG JADI,PIECES,Zoya Fashion,TT,PLKP BUSANA WANITA,INNER,ZTT3.B8.1009X0,"sizeX,color0"
+,,,,,,,,,,ZTT3.B8.1009S0,"sizeS,color0"
+,,,,,,,,,,ZTT3.B8.1009M0,"sizeM,color0"
+,,,,,,,,,,ZTT3.B8.1009L0,"sizeL,color0"
+,,,,,,,,,,ZTT3.B8.1009D0,"sizeD,color0"
+,,,,,,,,,,,
+,,,,,,,,,,,
+4,INNER INES,INNER INES,product,BARANG JADI,PIECES,Zoya Fashion,TT,PLKP BUSANA WANITA,INNER,ZTT3.B8.1004XX7,"sizeX,colorX7"
+,,,,,,,,,,ZTT3.B8.1004XX3,"sizeX,colorX3"
+,,,,,,,,,,ZTT3.B8.1004XX2,"sizeX,colorX2"
+,,,,,,,,,,ZTT3.B8.1004XW9,"sizeX,colorW9"
+,,,,,,,,,,ZTT3.B8.1004XW7,"sizeX,colorW7"
+,,,,,,,,,,ZTT3.B8.1004XW6,"sizeX,colorW6"
+,,,,,,,,,,ZTT3.B8.1004XV9,"sizeX,colorV9"
+,,,,,,,,,,ZTT3.B8.1004XU8,"sizeX,colorU8"
+,,,,,,,,,,ZTT3.B8.1004XU6,"sizeX,colorU6"
+,,,,,,,,,,ZTT3.B8.1004XU5,"sizeX,colorU5"
+,,,,,,,,,,ZTT3.B8.1004XU0,"sizeX,colorU0"
+,,,,,,,,,,ZTT3.B8.1004XS2,"sizeX,colorS2"
+,,,,,,,,,,ZTT3.B8.1004XS0,"sizeX,colorS0"
+,,,,,,,,,,ZTT3.B8.1004XR3,"sizeX,colorR3"
+,,,,,,,,,,,
+,,,,,,,,,,,
+product5,NECKLET SCARF MAGNIFICENT,NECKLET SCARF MAGNIFICENT,product,BARANG JADI,PIECES,Zoya Fashion,RK,BERGO,BERGO,ZRK3.TK.3013LS,"sizeL,colorS"
+,,,,,,,,,,ZRK3.TK.3013LM,"sizeL,colorM"
+,,,,,,,,,,ZRK3.TK.3013LL,"sizeL,colorL"

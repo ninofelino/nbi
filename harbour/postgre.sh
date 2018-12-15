@@ -1,0 +1,1 @@
+psql -U postgres -d oddo -a -f product_template.sql

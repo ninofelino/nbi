@@ -1,0 +1,40 @@
+<odoo>
+    <data>
+       
+        <template id="nino"> 
+                <t t-call="website.layout">
+                   <h3>website.layout</h3>
+                   <filter domain="[('state', '=', 'draft')]"/>
+                </t>
+           
+        </template> 
+
+        <template id="syncron"> 
+                <t t-call="website.layout">
+                   <h3>Syncron From DBF</h3>
+                   <p>
+                   /usr/lib/python3/dist-packages/odoo
+                   </p>
+                </t>
+           
+        </template> 
+        <template id="cetak"> 
+         <div class="navbar-header">
+                 
+                <h1>Custom Modul Print services</h1>   
+                 <a href="/felino">Home</a>
+                <a href="../print">Print</a>  
+                <p>
+                sudo apt-get install cups --reinstall
+                sudo service cups restart
+                </p>
+                
+
+         </div> 
+        
+         
+         <button>Product</button>
+         <button>M Class</button>
+        </template> 
+    </data>
+</odoo>

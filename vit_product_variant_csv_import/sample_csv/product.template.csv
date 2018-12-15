@@ -1,0 +1,7 @@
+id,name,type,weight,weight_net,product_variant_ids/default_code,product_variant_ids/ean13,product_variant_ids/attribute_value_ids/id,attribute_line_ids/attribute_id/id,attribute_line_ids/value_ids/id
+test.sandale1,Sandale 1,product,0.723,0.723,SANDAL-1-N-33,3518378100019,UKURAN37,,
+,,,,,SANDAL-1-M-33,3518378100033,UKURAN37,,
+,,,,,SANDAL-1-N-34,3518378100057,UKURAN39,,
+,,,,,SANDAL-1-M-34,3518378100071,UKURAN40,,
+,,,,,SANDAL-1-N-35,3518378100095,UKURAN41,,
+,,,,,SANDAL-1-M-35,3518378100118,UKURAN37,,
